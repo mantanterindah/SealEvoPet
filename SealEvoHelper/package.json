@@ -1,0 +1,17 @@
+{
+  "name": "finalbot",
+  "version": "1.0.0",
+  "description": "myfinal",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "tenuzholic",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.2.1",
+    "nodemon": "^1.12.1",
+    "request": "^2.83.0"
+  }
+}
